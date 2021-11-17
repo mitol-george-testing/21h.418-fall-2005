@@ -1,0 +1,41 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Fine Arts",
+      "Media Studies"
+    ],
+    [
+      "Fine Arts",
+      "Media Studies",
+      "Digital Media"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Intellectual History"
+    ],
+    [
+      "Humanities",
+      "History",
+      "History of Science and Technology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "fb803609-b896-c081-b3cb-f27d9ef3ed9d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "From Print to Digital: Technologies of the Word, 1450-Present",
+  "course_description": "There has been much discussion in recent years, on this campus and elsewhere, about the death of the book. Digitization and various forms of electronic media, some critics say, are rendering the printed text as obsolete as the writing quill. In this subject, we will examine the claims for and against the demise of the book, but we will also supplement these arguments with an historical perspective they lack: we will examine texts, printing technologies, and reading communities from roughly 1450 to the present. We will begin with the theoretical and historical overviews of Walter Ong and Elizabeth Eisenstein, after which we will study specific cases such as English chapbooks, Inkan knotted and dyed strings, late nineteenth-century recording devices, and newspapers online today. We will also visit a rare book library and make a poster on a hand-set printing press.\n",
+  "department_numbers": [
+    "21H"
+  ],
+  "extra_course_numbers": "CMS.880",
+  "primary_course_number": "21H.418",
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
